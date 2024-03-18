@@ -1,0 +1,27 @@
+body {
+    background-color: Azure;
+}
+
+.blue {
+    background-color: Blue;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("qcm.jpeg");
+
+
+    /* Full Height */
+    height: 80vh;
+
+    /* Center and Scale the image nicely */
+    background-position: center;
+    background-repeat: no repeat;
+    background-size: cover;
+}
+
+p {
+    text-indent: 30px;
+    text-align: left;
+}
+
